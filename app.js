@@ -5,7 +5,7 @@ App.onLaunch = function() {
 // Главный экран — сетка альбомов
 function showAlbums() {
     var xhr = new XMLHttpRequest();
-    xhr.open("GET", "https://content.uzbekistation.serv00.net/music/albums.json");
+    xhr.open("GET", "https://multura.github.io/audiobittv/albums.json");
     xhr.send();
 
     xhr.onload = function() {
