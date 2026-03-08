@@ -1,0 +1,12 @@
+{
+  "albums": [
+    {
+      "title": "Album One",
+      "cover": "https://content.uzbekistation.serv00.net/music/covers/1.png",
+      "tracks": [
+        {"title": "Track 1", "url": "https://content.uzbekistation.serv00.net/music/1.m4a", "format": "alac", "quality": "hires"},
+        {"title": "Track 2", "url": "https://content.uzbekistation.serv00.net/music/2.mp3", "format": "mp3", "quality": "standard"}
+      ]
+    }
+  ]
+}
